@@ -1,11 +1,15 @@
+#titulo {
+    color: #ad8319; 
+    font-size: 30px;
+    text-align: center;
+}
+
 body {
-	background: #CCCCCC
+    background-color: #E0FFFF;
 }
 
-p {
-	text-align: center;
-}
-
-em strong {
-	color: #FF0000;
+.texto {
+    color: rgb(190, 209, 17);
+     font-size: 22px;
+    text-align: center;
 }
